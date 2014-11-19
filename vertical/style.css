@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+html {
+  -epub-writing-mode:vertical-rl;
+  -webkit-writing-mode:vertical-rl;
+}
+
+/* body */
+body {
+  font-family: "IPAexMincho", serif;
+}
+
